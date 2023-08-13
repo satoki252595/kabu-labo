@@ -1,0 +1,77 @@
+<script>
+  import { Container, Row, Col, MaterialApp } from "svelte-materialify";
+  import Card from "./Card.svelte";
+</script>
+
+<MaterialApp>
+  <Container>
+    <Row>
+      <Col>
+        <Card
+          headline={"短期売却益狙い銘柄"}
+          discription={"月に一度、短期売買銘柄について共有します。"}
+          href={"https://www.notion.so/happy-money-kabu/601d902be2e94c868b65e5720e10d06d?pvs=4"}
+        />
+      </Col>
+      <Col
+        ><Card
+          headline={"長期売却益狙い銘柄"}
+          discription={"月に一度、長期売買銘柄について考察します。"}
+          href={"https://www.notion.so/happy-money-kabu/64fb79eff61a4c968641811d9bb50295?pvs=4"}
+        /></Col
+      >
+    </Row>
+    <Row>
+      <Col
+        ><Card
+          headline={"長期配当＆優待狙い銘柄"}
+          discription={"月に一度、長期で配当や優待を享受できるイチオシ銘柄を共有します。"}
+          href={"https://www.notion.so/happy-money-kabu/13466c7832f84e2db25e08048779c848?pvs=4"}
+        /></Col
+      >
+      <Col
+        ><Card
+          headline={"株式投資研究"}
+          discription={"月に一度、株式投資関連の研究（有益情報）について紹介します。"}
+          href={"https://www.notion.so/happy-money-kabu/2e9424fd751344f991adea36baa7172b?pvs=4"}
+        /></Col
+      >
+    </Row>
+
+    <Row>
+      <Col
+        ><Card
+          headline={"過去紹介銘柄一覧"}
+          discription={"過去、ご紹介した様々な銘柄について一覧共有します。"}
+          href={"https://www.notion.so/happy-money-kabu/819598c5344942af93ef70859984054d?pvs=4"}
+        /></Col
+      >
+      <Col
+        ><Card
+          headline={"メンバーチャット"}
+          discription={"メンバー限のチャットへご招待します。"}
+          href={"/Chat"}
+        /></Col
+      >
+    </Row>
+
+    <Row>
+      <Col
+        ><Card
+          overline={""}
+          headline={"コンサルタント"}
+          discription={"オンライン会議で資産運用のコンサルタント。証券アナリスト取得後に行う予定"}
+          href={"/Consultant"}
+        /></Col
+      >
+      <Col
+        ><Card
+          overline={""}
+          headline={"blog"}
+          discription={"銘柄分析や投資戦略について週一で更新"}
+          href={"https://www.notion.so/happy-money-kabu/blog-e933d9ccd5de413f9f4c40154e1e19bc?pvs=4"}
+        /></Col
+      >
+    </Row>
+  </Container>
+</MaterialApp>
