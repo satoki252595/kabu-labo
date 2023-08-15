@@ -36,7 +36,7 @@
     </a>
     &nbsp;
     <a
-      href="https://happy-money-kabu.notion.site/2c552cab8b4f43fbac2d1a7cd9419ff8?pvs=4"
+      href="https://www.notion.so/kabu-labo2/bc4353498c22495ea3442009325a9db6?pvs=4"
     >
       <Icon path={mdiCalendarMultiselect} />
     </a>

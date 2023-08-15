@@ -10,14 +10,14 @@
         <Card
           headline={"短期売却益狙い銘柄"}
           discription={"月に一度、短期売買銘柄について共有します。"}
-          href={"https://www.notion.so/happy-money-kabu/601d902be2e94c868b65e5720e10d06d?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/e46fb8ca4b944a45867cea50c3122cc2?pvs=4"}
         />
       </Col>
       <Col
         ><Card
           headline={"長期売却益狙い銘柄"}
           discription={"月に一度、長期売買銘柄について考察します。"}
-          href={"https://www.notion.so/happy-money-kabu/64fb79eff61a4c968641811d9bb50295?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/4b86d7f165524a6e80c54a60a8e0ae86?pvs=4"}
         /></Col
       >
     </Row>
@@ -26,14 +26,14 @@
         ><Card
           headline={"長期配当＆優待狙い銘柄"}
           discription={"月に一度、長期で配当や優待を享受できるイチオシ銘柄を共有します。"}
-          href={"https://www.notion.so/happy-money-kabu/13466c7832f84e2db25e08048779c848?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/e3025a5ca57f4ab48643ca1923ca7681?pvs=4"}
         /></Col
       >
       <Col
         ><Card
           headline={"株式投資研究"}
           discription={"月に一度、株式投資関連の研究（有益情報）について紹介します。"}
-          href={"https://www.notion.so/happy-money-kabu/2e9424fd751344f991adea36baa7172b?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/a1bb1a379d5f4ff9bf13b3199b423731?pvs=4"}
         /></Col
       >
     </Row>
@@ -43,7 +43,7 @@
         ><Card
           headline={"過去紹介銘柄一覧"}
           discription={"過去、ご紹介した様々な銘柄について一覧共有します。"}
-          href={"https://www.notion.so/happy-money-kabu/819598c5344942af93ef70859984054d?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/c96b8d32eb824a8fbb6a9e1675158658?pvs=4"}
         /></Col
       >
       <Col
@@ -69,7 +69,7 @@
           overline={""}
           headline={"blog"}
           discription={"銘柄分析や投資戦略について週一で更新"}
-          href={"https://www.notion.so/happy-money-kabu/blog-e933d9ccd5de413f9f4c40154e1e19bc?pvs=4"}
+          href={"https://www.notion.so/kabu-labo2/blog-a535213d26df40e9ab452ffd206c1019?pvs=4"}
         /></Col
       >
     </Row>
