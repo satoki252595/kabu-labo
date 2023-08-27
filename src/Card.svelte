@@ -11,7 +11,7 @@
   export let headline = "";
   export let discription = "";
   export let buttonName = "次へ";
-  export let updateDate = "2023/12/12"; //notion APIで取得する
+  // export let updateDate = "2023/12/12"; //notion APIで取得する
   //export let preUpdateDate = "2023/12/12"; //notion APIで取得する
   export let href = "https://www.buffett-code.com/";
 </script>
@@ -23,12 +23,11 @@
         <span class="text-overline">
           {overline}
           <div style="flex-grow:1" />
-          更新日：{updateDate}</span
-        >
 
-        <br />
-        <span class="text-h5 mb-2">{headline}</span>
-        <br />
+          <br />
+          <span class="text-h5 mb-2">{headline}</span>
+          <br />
+        </span>
       </div>
       <CardText>
         {discription}
